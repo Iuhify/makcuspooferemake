@@ -95,7 +95,7 @@ This tool modifies the Windows registry and USB device configurations. Use at yo
 Contributions are welcome! Submit a pull request or open an issue to discuss improvements or bugs.
 
 
-the maker of the makcu port changer ![github}(https://github.com/terrafirma2021/MAKCU-Com-port-change-tool)
+the maker of the makcu port changer https://github.com/terrafirma2021/MAKCU-Com-port-change-tool
 
 
 
